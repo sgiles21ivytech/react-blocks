@@ -1,0 +1,41 @@
+.App {
+    background-color: #dddddd ;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Header {
+    background-color: #6aa84f ;
+    flex: 1;
+    padding: 50px;
+    margin: 10px;
+    ;
+}
+
+
+.LeftandCenter {
+    display: flex;
+}
+
+.Navigation {
+    background-color: #6fa8dc;
+    flex: 1;
+    padding: 0px;
+    margin: 10px;
+    height: 600px;
+    
+}
+
+.MainContent {
+    background-color: #e06666;
+    flex-direction: column;
+    display: flex;
+    flex: 3;
+    padding: 50px;
+    margin: 10px;
+    height: 600px;
+    
+
+}

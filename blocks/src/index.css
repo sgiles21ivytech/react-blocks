@@ -1,0 +1,22 @@
+
+
+.Advertisement {
+    background-color: #b4a7d6 ;
+    padding: 40px;
+    margin: 10px;
+    width: 1200px;
+
+}
+
+.SubContent {
+    display: flex;
+    
+}
+
+.Content {
+    background-color: #ffd966;
+    flex: 1;
+    padding: 10px;
+    margin: 10px;
+    height: 500px;
+}
